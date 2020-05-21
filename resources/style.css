@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    font-family: helvetica;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+h1 {
+    margin: 2rem;
+}
+
+h2 {
+    margin: 1.5rem;
+}
+
+button {
+    font-size: 1rem;
+    font-weight: 700;
+    padding: 0.5rem 1rem;
+}
+
+#revelationImage {
+    width: 20rem;
+}
